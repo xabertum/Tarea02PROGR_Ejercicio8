@@ -15,10 +15,6 @@ public class Tarea02_Ejercicio8 {
 
     
     
-    
-    
-    
-    
     /**
      * @param args the command line arguments
      */
@@ -39,7 +35,7 @@ public class Tarea02_Ejercicio8 {
         System.out.println("x * y = " + (num1 * num2));
         System.out.println("x / y = " + (num1 / num2));
         System.out.println("x ^ y = " + (Math.pow(num1, num2)));
-        System.out.println(" ¹ x = " + (Math.sqrt(num2)));
+        System.out.println(" raiz cuadrada de x = " + (Math.sqrt(num2)));
         
         
         
